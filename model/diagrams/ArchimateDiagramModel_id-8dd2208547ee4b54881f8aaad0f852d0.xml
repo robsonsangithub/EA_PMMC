@@ -481,9 +481,27 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-dd1c36b132b84a4397679794350316cf.xml#id-dd1c36b132b84a4397679794350316cf"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3bd3dea91b254026b09ff785569743b5"
+        source="id-0ce5099bf325489f983341b59251912e"
+        target="id-dd4a304422f24d58ac4839146f1e12b0">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-1dc5e8da8d61432ab556fdd854e74fac.xml#id-1dc5e8da8d61432ab556fdd854e74fac"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-13f9972d0f654cf4a9fe895772d7a645"
+        source="id-0ce5099bf325489f983341b59251912e"
+        target="id-cb1283f7ff024f789813cd5026dbd9bc">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-c2485cbf3354476cb4b7a08edf26c7c1.xml#id-c2485cbf3354476cb4b7a08edf26c7c1"/>
+    </sourceConnections>
     <bounds
-        x="114"
-        y="84"
+        x="106"
+        y="82"
         width="168"
         height="264"/>
     <children
@@ -513,6 +531,34 @@
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-4e9efb68ec26439b81a9660fe11f3961.xml#id-4e9efb68ec26439b81a9660fe11f3961"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-dd4a304422f24d58ac4839146f1e12b0"
+        targetConnections="id-3bd3dea91b254026b09ff785569743b5"
+        font="1|Calibri Light|9.0|0|WINDOWS|1|-12|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light">
+      <bounds
+          x="12"
+          y="156"
+          width="144"
+          height="36"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-08096ed76a564bb08b09b1e52f18056b.xml#id-08096ed76a564bb08b09b1e52f18056b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-cb1283f7ff024f789813cd5026dbd9bc"
+        targetConnections="id-13f9972d0f654cf4a9fe895772d7a645"
+        font="1|Calibri Light|9.0|0|WINDOWS|1|-12|0|0|0|300|0|0|0|0|3|2|1|34|Calibri Light">
+      <bounds
+          x="12"
+          y="204"
+          width="144"
+          height="36"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-1829d6a1e9654085ac62651025285bbe.xml#id-1829d6a1e9654085ac62651025285bbe"/>
     </children>
     <archimateElement
         xsi:type="archimate:Capability"

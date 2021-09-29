@@ -1067,16 +1067,4 @@
         xsi:type="archimate:Node"
         href="Node_id-52cea5c276a643f5855b7e8180ca0e2f.xml#id-52cea5c276a643f5855b7e8180ca0e2f"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1048dc806f034b74a0ac870459b7e27b">
-    <bounds
-        x="1197"
-        y="726"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_id-698c2cf0f1fa4d64ae73aabf35f88866.xml#id-698c2cf0f1fa4d64ae73aabf35f88866"/>
-  </children>
 </archimate:ArchimateDiagramModel>
